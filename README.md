@@ -1,1 +1,0 @@
-simple test for deploy kuber in azure
