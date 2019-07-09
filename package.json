@@ -1,6 +1,6 @@
 {
   "name": "chat-app",
-  "version": "1.0.3",
+  "version": "0.1.0",
   "private": true,
   "dependencies": {
     "firebase": "^6.2.0",
