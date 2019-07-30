@@ -8,7 +8,7 @@ steps:
        Authorization = "Bearer $env:SYSTEM_ACCESSTOKEN"
    }
    Write-Host "Previous Build Number is:"
-   Write-Host $pipeline.value.buildNumber[1]
+   Write-Host $pipeline
    
    
    
